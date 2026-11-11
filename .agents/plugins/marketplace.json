@@ -8,7 +8,7 @@
       "name": "encited",
       "source": {
         "source": "url",
-        "url": "https://github.com/Encited/ai-plugin.git"
+        "url": "https://github.com/Encited/seo-mcp-plugin.git"
       },
       "policy": {
         "installation": "AVAILABLE",

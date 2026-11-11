@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.encited/encited",
+  "title": "Encited",
+  "description": "Complete SEO and AI Search stack for your AI agents",
+  "version": "1.0.1",
+  "websiteUrl": "https://encited.com/seo-mcp",
+  "repository": {
+    "url": "https://github.com/Encited/seo-mcp-plugin",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://encited.com/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://encited.com/logo-mark.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://encited.com/api/mcp"
+    }
+  ]
+}

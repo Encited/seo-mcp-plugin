@@ -8,11 +8,12 @@
     "url": "https://encited.com"
   },
   "homepage": "https://encited.com/seo-mcp",
-  "repository": "https://github.com/Encited/ai-plugin",
+  "repository": "https://github.com/Encited/seo-mcp-plugin",
   "license": "MIT",
   "keywords": [
     "encited",
     "encited mcp",
+    "encited seo mcp",
     "encited seo",
     "encited aeo",
     "encited geo",

@@ -19,11 +19,14 @@
         "url": "https://encited.com"
       },
       "homepage": "https://encited.com/seo-mcp",
-      "repository": "https://github.com/Encited/ai-plugin",
+      "repository": "https://github.com/Encited/seo-mcp-plugin",
       "license": "MIT",
       "category": "productivity",
       "keywords": [
         "encited",
+        "mcp",
+        "seo mcp",
+        "mcp server",
         "seo",
         "aeo",
         "geo",
