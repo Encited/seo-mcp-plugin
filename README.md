@@ -1,6 +1,6 @@
 # Encited SEO MCP and Plugin
 
-SEO MCP and Plugin for Claude Code, Claude, ChatGPT, Codex, Cursor and Grok.
+Most complete SEO MCP and Plugin for Claude Code, Claude, ChatGPT, Codex, Cursor and Grok.
 
 Ask about your own site from your AI tool and get answers from live data: is Googlebot visiting, why a page is not indexed, which queries earn clicks, what ChatGPT says about your brand, and what to write next. Then run the fix from the same chat: start an audit, launch a content workflow, or build a client report.
 
