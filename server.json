@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.encited/encited",
-  "title": "Encited",
+  "title": "Encited - Complete SEO & AEO MCP",
   "description": "Complete SEO and AI Search stack for your AI agents",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://encited.com/seo-mcp",
   "repository": {
     "url": "https://github.com/Encited/seo-mcp-plugin",
